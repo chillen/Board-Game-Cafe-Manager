@@ -6,7 +6,7 @@ board game recommendations, food preferences, and basic menu management.
 The application was developed to test my knowledge of SQL and Swing GUI 
 development. 
 
-![Customer preference screen](/Images/screenshot3.jpg)
+![Customer preference screen](https://raw.githubusercontent.com/chillen/Board-Game-Cafe-Manager/master/Images/screenshot.3.jpg)
 
 You will require [SQLite JDBC](https://github.com/xerial/sqlite-jdbc) for SQL
 database management.
